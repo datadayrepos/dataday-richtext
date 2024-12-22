@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+      "Vue.vscode-typescript-vue-plugin",
+      "dbaeumer.vscode-eslint",
+      "bierner.lit-html",
+      "antfu.vite"
+    ]
+  }
